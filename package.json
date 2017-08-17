@@ -1,0 +1,21 @@
+{
+  "name": "dependency-license",
+  "scripts": {
+    "start": "node app",
+    "test": "nodemon app"
+  },
+  "engines": {
+    "node": ">=8.3",
+    "npm": ">=5.3"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "package-json": "^4.0.1",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
