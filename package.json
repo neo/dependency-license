@@ -1,7 +1,10 @@
 {
   "name": "dependency-license",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "get-dependency-license.js",
+  "repository": "neo/dependency-license",
+  "license": "ISC",
+  "author": "Neo <neo.li@jam3.com> (https://github.com/neo)",
   "scripts": {
     "start": "node app",
     "test": "nodemon app"
