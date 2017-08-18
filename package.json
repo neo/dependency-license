@@ -1,5 +1,7 @@
 {
   "name": "dependency-license",
+  "version": "0.0.1",
+  "main": "get-dependency-license.js",
   "scripts": {
     "start": "node app",
     "test": "nodemon app"
